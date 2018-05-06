@@ -4,9 +4,11 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( adbd_exec
+    adb_device
     broadcastradio_service
     e2fs
     e2fs_exec
+    sdcard_posix
     hal_broadcastradio_hwservice
     hal_cas_hwservice
     hal_neuralnetworks_hwservice
